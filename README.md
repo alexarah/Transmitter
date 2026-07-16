@@ -1,2 +1,2 @@
 # Kodingan TA
-python dan arduino IDE pada sisi transmitter
+python, arduino IDE, dan data sekunder
